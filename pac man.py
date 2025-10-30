@@ -77,7 +77,7 @@ def check_position(center_x, center_y):
     if centerx //30 < 29:
 
 
-    return turns
+    return turns 
 
 run = True
 while run:
